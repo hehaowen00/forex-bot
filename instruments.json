@@ -1,0 +1,369 @@
+{
+  "instruments": [
+    {
+      "name": "EUR_USD",
+      "type": "CURRENCY",
+      "displayName": "EUR/USD",
+      "pipLocation": -4,
+      "displayPrecision": 5,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "100000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "-0.0271",
+        "shortRate": "0.0062",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "USD_JPY",
+      "type": "CURRENCY",
+      "displayName": "USD/JPY",
+      "pipLocation": -2,
+      "displayPrecision": 3,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "100000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "0.0443",
+        "shortRate": "-0.0647",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "GBP_USD",
+      "type": "CURRENCY",
+      "displayName": "GBP/USD",
+      "pipLocation": -4,
+      "displayPrecision": 5,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "50000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "-0.0144",
+        "shortRate": "-0.006",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "USD_CHF",
+      "type": "CURRENCY",
+      "displayName": "USD/CHF",
+      "pipLocation": -4,
+      "displayPrecision": 5,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "100000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "0.0318",
+        "shortRate": "-0.0557",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "USD_CAD",
+      "type": "CURRENCY",
+      "displayName": "USD/CAD",
+      "pipLocation": -4,
+      "displayPrecision": 5,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "100000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "-0.0012",
+        "shortRate": "-0.0212",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "AUD_USD",
+      "type": "CURRENCY",
+      "displayName": "AUD/USD",
+      "pipLocation": -4,
+      "displayPrecision": 5,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "100000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "-0.0212",
+        "shortRate": "0.00010",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "NZD_USD",
+      "type": "CURRENCY",
+      "displayName": "NZD/USD",
+      "pipLocation": -4,
+      "displayPrecision": 5,
+      "tradeUnitsPrecision": 0,
+      "minimumTradeSize": "1",
+      "maximumPositionSize": "0",
+      "maximumOrderUnits": "100000000",
+      "marginRate": "0.1",
+      "instrumentCommission": {
+        "commission": "",
+        "unitsTraded": "",
+        "minimumCommission": ""
+      },
+      "guaranteedStopLossMode": "",
+      "financing": {
+        "longRate": "-0.0101",
+        "shortRate": "-0.0114",
+        "FinancingDaysOfWeek": [
+          {
+            "dayOfWeek": "MONDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "TUESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "WEDNESDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "THURSDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "FRIDAY",
+            "daysCharged": 1
+          },
+          {
+            "dayOfWeek": "SATURDAY",
+            "daysCharged": 0
+          },
+          {
+            "dayOfWeek": "SUNDAY",
+            "daysCharged": 0
+          }
+        ]
+      }
+    }
+  ],
+  "lastTransactionID": "1092"
+}
